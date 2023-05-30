@@ -1,4 +1,4 @@
-# XdY
+# XdYce
 A simple CLI dice roller
 
 Takes input "XdY"
