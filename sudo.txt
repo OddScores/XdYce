@@ -1,0 +1,16 @@
+take user input in format "xdy"
+    where x is the number of dice and y is the dice type
+    
+take input and seperate the d out and return x and y
+
+get the output
+    use y to set the gen range
+    use x as loop amount
+    
+print output as an array with the sum at the end aswell
+
+ex. 
+
+~Input format "XdY" where X is amount of dice and Y is dice type
+u~3d6
+~ 4, 2, 5 | sum = 11
